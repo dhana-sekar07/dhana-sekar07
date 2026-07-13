@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhanasekaran S
 - 👀 I’m a passionate Full Stack Developer
-- 🌱 Ask me about PHP, MySQL, Bootstrap, JavaScript, AJAX, jQuery
+- 🌱 Ask me about ReactJS, REST API, Redux, Bootstrap, Tailwind CSS, NodeJS, ExpressJS, MySQL
 - 💞️ I’m looking to collaborate on open-source PHP projects
 - 📫 How to reach me : sekaransdhana365@gmail.com
